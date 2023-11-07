@@ -1,1 +1,2 @@
-print("Pozdrav iz aplikacije od Mihovila Jankovića 1234125")
+
+print("Pozdrav iz aplikacije od Mihovila Jankovića")
